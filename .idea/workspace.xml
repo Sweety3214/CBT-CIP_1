@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf4acdf7-6810-4364-a2ad-06163c557a88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2pn5BwINtbpZHlbznGcSdbSb7C9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CBT_CIP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoginPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CBT-CIP [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CBT-CIP [test...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Unknown [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Unknown [test...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium-automation [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.testEmptyEmailOrMobileFields.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.testEmptyFields.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.testInvalidLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.testMailResetFlow.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.testPasswordResetFlow.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.testValidLogin (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.testValidLogin.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test -DsuiteXmlFile=path/to/testng.xml " />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTest">
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CBT-CIP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testEmptyEmailOrMobileFields" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CBT-CIP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="testEmptyEmailOrMobileFields" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testInvalidLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CBT-CIP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="testInvalidLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testMailResetFlow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CBT-CIP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="testMailResetFlow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testValidLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CBT-CIP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="testValidLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.testEmptyEmailOrMobileFields" />
+        <item itemvalue="TestNG.LoginTest.testInvalidLogin" />
+        <item itemvalue="TestNG.LoginTest.testMailResetFlow" />
+        <item itemvalue="TestNG.LoginTest.testValidLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-249ae16d76d6-98297cd8" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf4acdf7-6810-4364-a2ad-06163c557a88" name="Changes" comment="" />
+      <created>1733388868398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733388868398</updated>
+      <workItem from="1733388869781" duration="3504000" />
+      <workItem from="1733476539853" duration="4869000" />
+      <workItem from="1733500456288" duration="768000" />
+      <workItem from="1733551482569" duration="608000" />
+      <workItem from="1733585678814" duration="1736000" />
+      <workItem from="1733740381261" duration="3882000" />
+      <workItem from="1733758327216" duration="398000" />
+      <workItem from="1733758740105" duration="2389000" />
+      <workItem from="1733810254380" duration="2492000" />
+      <workItem from="1733822113219" duration="4003000" />
+      <workItem from="1733848868020" duration="3391000" />
+      <workItem from="1733896049302" duration="3088000" />
+      <workItem from="1734080445901" duration="6452000" />
+      <workItem from="1734102321133" duration="1682000" />
+      <workItem from="1734106483155" duration="2745000" />
+      <workItem from="1734112638841" duration="3358000" />
+      <workItem from="1734179637481" duration="633000" />
+      <workItem from="1734345607816" duration="625000" />
+      <workItem from="1734599313576" duration="645000" />
+      <workItem from="1734618896430" duration="601000" />
+      <workItem from="1734670754256" duration="2648000" />
+      <workItem from="1734686222093" duration="20000" />
+      <workItem from="1734759102012" duration="356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BrowserTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
