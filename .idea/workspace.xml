@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf4acdf7-6810-4364-a2ad-06163c557a88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LoginTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,36 +33,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CBT_CIP.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoginPageTest.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.CBT-CIP [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.CBT-CIP [test...].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.Unknown [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.Unknown [test...].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.selenium-automation [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.testEmptyEmailOrMobileFields.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.testEmptyFields.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.testInvalidLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.testMailResetFlow.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.testPasswordResetFlow.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.testValidLogin (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.testValidLogin.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CBT_CIP.executor": "Run",
+    "Application.LoginPageTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.CBT-CIP [clean,install].executor": "Run",
+    "Maven.CBT-CIP [test...].executor": "Run",
+    "Maven.Unknown [clean,install].executor": "Run",
+    "Maven.Unknown [test...].executor": "Run",
+    "Maven.selenium-automation [clean,install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LoginTest.testEmptyEmailOrMobileFields.executor": "Run",
+    "TestNG.LoginTest.testEmptyFields.executor": "Run",
+    "TestNG.LoginTest.testInvalidLogin.executor": "Run",
+    "TestNG.LoginTest.testMailResetFlow.executor": "Run",
+    "TestNG.LoginTest.testPasswordResetFlow.executor": "Run",
+    "TestNG.LoginTest.testValidLogin (1).executor": "Run",
+    "TestNG.LoginTest.testValidLogin.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn test -DsuiteXmlFile=path/to/testng.xml " />
@@ -185,7 +176,7 @@
       <workItem from="1734618896430" duration="601000" />
       <workItem from="1734670754256" duration="2648000" />
       <workItem from="1734686222093" duration="20000" />
-      <workItem from="1734759102012" duration="356000" />
+      <workItem from="1734759102012" duration="679000" />
     </task>
     <servers />
   </component>
