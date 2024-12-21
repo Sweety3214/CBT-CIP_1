@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf4acdf7-6810-4364-a2ad-06163c557a88" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Joseph\IdeaProjects\CBT-CIP\Documents" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn test -DsuiteXmlFile=path/to/testng.xml " />
@@ -176,7 +181,7 @@
       <workItem from="1734618896430" duration="601000" />
       <workItem from="1734670754256" duration="2648000" />
       <workItem from="1734686222093" duration="20000" />
-      <workItem from="1734759102012" duration="679000" />
+      <workItem from="1734759102012" duration="1343000" />
     </task>
     <servers />
   </component>
